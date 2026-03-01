@@ -1,0 +1,81 @@
+institute id,college_name,city,state,nirf_score,nirf_rank,opening_rank,closing_rank,estimated_fees
+IR-E-U-0456,indian institute of technology madras,Chennai,Tamil Nadu,88.72,1,79,171,220000
+IR-E-I-1074,indian institute of technology delhi,New Delhi,Delhi,85.74,2,24,126,220000
+IR-E-U-0306,indian institute of technology bombay,Mumbai,Maharashtra,83.65,3,1,66,220000
+IR-E-I-1075,indian institute of technology kanpur,Kanpur,Uttar Pradesh,81.82,4,147,271,220000
+IR-E-U-0573,indian institute of technology kharagpur,Kharagpur,West Bengal,78.69,5,238,466,220000
+IR-E-U-0560,indian institute of technology roorkee,Roorkee,Uttarakhand,75.44,6,275,592,220000
+IR-E-U-0013,indian institute of technology hyderabad,Hyderabad,Telangana,72.31,7,339,673,220000
+IR-E-U-0053,indian institute of technology guwahati,Guwahati,Assam,72.24,8,504,792,220000
+IR-E-U-0273,indian institute of technology indore,Indore,Madhya Pradesh,66.65,12,952,1775,220000
+IR-E-U-0064,indian institute of technology patna,Patna,Bihar,64.52,19,1954,3377,220000
+IR-E-U-0139,indian institute of technology gandhinagar,Gandhinagar,Gujarat,62.31,25,905,2020,220000
+IR-E-U-0184,indian institute of technology mandi,Mandi,Himachal Pradesh,62.08,26,2096,3123,220000
+IR-E-U-0395,indian institute of technology jodhpur,Jodhpur,Rajasthan,61.31,27,2269,2918,220000
+IR-E-U-0378,indian institute of technology ropar,Rupnagar,Punjab,59.66,32,1680,2512,220000
+IR-E-U-0355,indian institute of technology bhubaneswar,Bhubaneswar,Odisha,58.22,39,2344,4162,220000
+IR-E-U-0906,indian institute of technology jammu,Jammu,Jammu and Kashmir,53.08,56,4704,6651,220000
+IR-E-U-0878,indian institute of technology palakkad,Palakkad,Kerala,51.2,64,4530,6454,220000
+IR-E-U-0946,indian institute of technology bhilai,Durg,Chhattisgarh,50.37,72,4462,7382,220000
+IR-E-U-0899,indian institute of technology dharwad,Dharwad,Karnataka,48.61,77,4742,7208,220000
+,"dr. b r ambedkar national institute of technology, jalandhar",,,,,2038,2038,150000
+,"dr. b r ambedkar national institute of technology, jalandhar",,,,,411,411,150000
+,malaviya national institute of technology jaipur,,,,,396,396,150000
+,malaviya national institute of technology jaipur,,,,,138,138,150000
+,malaviya national institute of technology jaipur,,,,,130,130,150000
+,maulana azad national institute of technology bhopal,,,,,289,438,150000
+,maulana azad national institute of technology bhopal,,,,,172,253,150000
+,motilal nehru national institute of technology allahabad,,,,,189,199,150000
+,motilal nehru national institute of technology allahabad,,,,,245,245,150000
+,motilal nehru national institute of technology allahabad,,,,,120,148,150000
+,national institute of technology agartala,,,,,1095,1163,150000
+,national institute of technology calicut,,,,,42,42,150000
+,national institute of technology calicut,,,,,135,135,150000
+,national institute of technology calicut,,,,,134,134,150000
+,national institute of technology delhi,,,,,241,241,150000
+,national institute of technology delhi,,,,,409,409,150000
+,national institute of technology durgapur,,,,,151,151,150000
+,national institute of technology durgapur,,,,,406,406,150000
+,national institute of technology goa,,,,,747,747,150000
+,national institute of technology hamirpur,,,,,733,733,150000
+,national institute of technology hamirpur,,,,,616,616,150000
+,"national institute of technology karnataka, surathkal",,,,,56,56,150000
+,"national institute of technology karnataka, surathkal",,,,,86,86,150000
+,national institute of technology nagaland,,,,,2394,2394,150000
+,national institute of technology patna,,,,,400,490,150000
+,national institute of technology patna,,,,,498,589,150000
+,national institute of technology puducherry,,,,,3074,3074,150000
+,national institute of technology puducherry,,,,,420,420,150000
+,national institute of technology raipur,,,,,867,867,150000
+,national institute of technology raipur,,,,,439,439,150000
+,national institute of technology sikkim,,,,,2253,2253,150000
+,national institute of technology sikkim,,,,,925,925,150000
+,national institute of technology arunachal pradesh,,,,,882,882,150000
+,"national institute of technology, jamshedpur",,,,,516,516,150000
+,"national institute of technology, jamshedpur",,,,,294,294,150000
+,"national institute of technology, jamshedpur",,,,,388,388,150000
+,"national institute of technology, kurukshetra",,,,,60,60,150000
+,"national institute of technology, kurukshetra",,,,,93,93,150000
+,"national institute of technology, manipur",,,,,1567,1567,150000
+,"national institute of technology, rourkela",,,,,90,90,150000
+,"national institute of technology, rourkela",,,,,256,256,150000
+,"national institute of technology, rourkela",,,,,118,118,150000
+,"national institute of technology, silchar",,,,,1222,1222,150000
+,"national institute of technology, silchar",,,,,259,259,150000
+,"national institute of technology, srinagar",,,,,541,541,150000
+,"national institute of technology, srinagar",,,,,1171,1171,150000
+,"national institute of technology, tiruchirappalli",,,,,250,250,150000
+,"national institute of technology, tiruchirappalli",,,,,251,251,150000
+,"national institute of technology, tiruchirappalli",,,,,43,43,150000
+,"national institute of technology, uttarakhand",,,,,855,855,150000
+,"national institute of technology, uttarakhand",,,,,605,605,150000
+,"national institute of technology, warangal",,,,,98,98,150000
+,"national institute of technology, warangal",,,,,101,101,150000
+,"sardar vallabhbhai national institute of technology, surat",,,,,223,223,150000
+,"sardar vallabhbhai national institute of technology, surat",,,,,163,163,150000
+,"visvesvaraya national institute of technology, nagpur",,,,,207,207,150000
+,"visvesvaraya national institute of technology, nagpur",,,,,281,281,150000
+,"national institute of technology, andhra pradesh",,,,,276,276,150000
+,"national institute of technology, andhra pradesh",,,,,432,432,150000
+,"indian institute of engineering science and technology, shibpur",,,,,464,464,150000
+,"indian institute of engineering science and technology, shibpur",,,,,795,795,150000
